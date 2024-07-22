@@ -1,0 +1,1 @@
+# Projektas įkeltas pasinaudojant terminalo komandomis
